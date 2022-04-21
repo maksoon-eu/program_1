@@ -30,3 +30,7 @@ if (+personalMovieDB.count < 10) {
 } else {
     console.log("Произошла ошибка");
 }
+
+
+const test = '13.67676px';
+console.log(parseFloat(test));
